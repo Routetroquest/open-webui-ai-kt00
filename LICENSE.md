@@ -1,4 +1,4 @@
-# 
+# New Open WebUI templates. Featuring data-pipelines and api-integration — optimized for maximum performance and efficiency.
 
 
 
